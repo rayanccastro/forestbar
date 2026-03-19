@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1484288942055620648/X0iL24wvswPOz_mUuL-J_yRpHy2TgRWrt3yvWuZjmFzc23bTVwURjvuK_CqLnfqJvgbz";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1484307358724132964/JGC3jeLqa1SBYFKtpPmZEs4Aaf8dpStONXJ1thA8HzaC_hzt_8hdDanWBXD1EaTHuvR6";
 const UNIT_PRICE = 135;
 const MULTIPLIER = 4;
 
