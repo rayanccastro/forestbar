@@ -432,12 +432,10 @@ export default function Page() {
             </div>
             <h1 className="mb-3 text-4xl font-black leading-none md:text-6xl" style={{ color: bone }}>
               Forest Bar
-              <span style={{ color: amber }}> Sales Log</span>
+              <span style={{ color: amber }}> Caixa Registradora </span>
             </h1>
             <p className="max-w-3xl text-sm leading-7 md:text-base" style={{ color: fog }}>
-              Agora com visual mais próximo da logo: clima noturno, tons amadeirados, dourado envelhecido,
-              verde pinheiro e atmosfera de floresta sombria. O painel mantém a mesma lógica e ficou com uma
-              identidade muito mais alinhada ao bar.
+              Forest Bar
             </p>
 
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
